@@ -10,6 +10,8 @@ Quero com esse repositorio juntar os motivos do por que regular as profissões d
  
  * Prejudicaria muito a competitividade
  * Aumentaria o poder dos sindicatos
+    A entrada no mercado de desenvolvimento de software já muito dificil, pra eu conseguir um estágio foi uma luta enorme, com a criação de barreiras de ccontratação pelo Estado, ficaria ainda muito mais dficil pro profissional que está no inicio de carreira, principalmente se for for instituído: piso salarial, formação completa obrigatória e/ou registro em algum tipo de conselho da profissão. Esses fatos citados acima encareceria mais ainda as contratações, diminuindo a contratação
+    de iniciantes(por que é uma contratação com maior risco) e inibindo a criação de novas vagas em geral. Então precisamos está atentos a esse tipo de regulamentação pois pode ser muito danosa a área de TI em geral.
 
 ## Como contribuir?
 
