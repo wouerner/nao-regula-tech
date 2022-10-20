@@ -7,6 +7,9 @@ Quero com esse repositorio juntar os motivos do por que regular as profissões d
 * Regulamentar a profissão pode criar um sistema parecido com a da OAB, removendo assim diversos perfis da area, acabando com a diversidade.
 
  **Adicione os seus exemplos aqui abaixo:**
+ 
+ * Prejudicaria muito a competitividade
+ * Aumentaria o poder dos sindicatos
 
 ## Como contribuir?
 
